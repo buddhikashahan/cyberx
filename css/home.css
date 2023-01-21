@@ -164,10 +164,16 @@ nav ul li a.active {
         font-size: 15px;
         display: block;
         line-height: 40px;
+        margin-right: 20px;
     }
     img.logo {
         height: 40px;
     }
+    nav ul li a {
+        color: white;
+        font-size: 10px;
+
+     }
     ul {
         position: fixed;
         width: 100%;
